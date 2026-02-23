@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "私のままで",
+  "base_artist": "SHISHAMO",
+  "createdAt": "2026-02-23T10:13:37.370557Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私のままで",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/01_私のままで_SHISHAMO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "私のままで",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/02_私のままで_SHISHAMO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私のままで",
+      "artist": "SHISHAMO",
+      "has_synced": false,
+      "path": "select/pl_01_私のままで_SHISHAMO.txt"
+    }
+  ]
+}
